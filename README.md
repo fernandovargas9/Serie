@@ -1,0 +1,2 @@
+# Serie
+Series de enteros
